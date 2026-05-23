@@ -1,4 +1,4 @@
 # odin-recipes
 My first Odin project
 
-This will have links to receipes
+It will have links to receipes
